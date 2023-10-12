@@ -8,7 +8,7 @@ Full Fortnite project files for External.
 This is ready-to-use cheat, it has lot of core features and has no issues.
 
 ## Showcase
-https://github.com/KingzCheats/Fortnite-External/assets/114768995/82d501fb-9197-4887-95ce-7f9fdf03367b
+https://streamable.com/miqkmc
 
 ## FAQ
 ### Where's the EXE?
@@ -35,11 +35,14 @@ Press `INSERT`.
 Press `END`.
 
 ## Credits 
-- dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
+- saurian and vex for their address, hash, module, netvar, pattern, pe, and vmt classes
 - everyone who contributed to the project!
 
 ## Known issues
 - Some of the code is unoptimized.
+
+## **Antivirus Isuues**
+- Don't worry if it's flags your antivirus this is a injectable game cheat and tends to flag some antiviruses 
 
 ## License
 Licensed under the MIT License. 
